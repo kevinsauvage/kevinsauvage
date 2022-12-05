@@ -2,6 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
+<br/>  
 
 Hello! My name is Kévin and I am a front-end developer with a passion for learning new things. I have a strong skillset in Html, CSS, SASS, JavaScript, React/Next and Svelte. In addition to front-end development, I am also interested in back-end development with Node.js and Express.js. My natural curiosity and willingness to learn means that I am always expanding my skillset and knowledge base.  
   
@@ -49,10 +50,4 @@ Hello! My name is Kévin and I am a front-end developer with a passion for learn
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kevinsauvage&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/>
