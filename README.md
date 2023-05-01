@@ -4,7 +4,15 @@
   
 <br/>  
 
-Hello! My name is Kévin and I am a front-end developer with a passion for learning new things. I have a strong skillset in Html, CSS, SASS, JavaScript, React/Next and Svelte. In addition to front-end development, I am also interested in back-end development with Node.js and Express.js. My natural curiosity and willingness to learn means that I am always expanding my skillset and knowledge base.  
+Hello there! I'm Kévin Sauvage, a dedicated front-end developer with back-end knowledge and two years of experience under my belt. With a passion for creating seamless and responsive user experiences, I have honed my skills in various programming languages and frameworks, making me capable of delivering top-notch web solutions.
+
+With proficiency in various in-demand programming languages and frameworks, I am well-versed in Javascript, React.js, Next.js, Svelte.js, Node.js, and Express.js. These tools enable me to develop dynamic and efficient web applications, providing clients with high-quality solutions to meet their business needs.
+
+What sets me apart is that I made a bold career change to pursue my passion for programming, which has given me a unique perspective and dedication to my craft. I'm always eager to learn and grow, and I stay up-to-date with the latest industry trends and best practices to ensure my work is cutting-edge and of the highest quality.
+
+My certification in full-stack web development from Le Wagon has provided me with hands-on expertise in various programming languages and tools. I've further refined my skills as a front-end developer for Subforce and developer consultant for Extia.
+
+If you're looking for a skilled and enthusiastic developer to join your team, I would be delighted to hear from you. Please don't hesitate to contact me or view my portfolio to learn more about my experience and skills. Thank you for visiting my website, and I look forward to the opportunity to work with you!  
   
 
 <br/>  
