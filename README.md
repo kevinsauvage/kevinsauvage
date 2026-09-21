@@ -1,92 +1,91 @@
 <div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width:100%" />
+
+# Kévin Sauvage
+
+**Frontend Engineer — accessibility, performance & design systems**
+
+Building fast, accessible web products with React, Next.js and Svelte.
+Based in Barcelona · Working remotely at Keolis Group.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-kevin--sauvage.com-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://www.kevin-sauvage.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kevin--sauvage-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-sauvage/)
+[![Email](https://img.shields.io/badge/Email-kevinsauvage%40outlook.com-2563eb?style=flat-square&logo=maildotru&logoColor=white)](mailto:kevinsauvage@outlook.com)
+
 </div>
 
-<br/>
+---
 
-# 👋 Hi, I'm **Kévin Sauvage**
-### Frontend Developer • JavaScript Enthusiast • Performance & Accessibility Advocate
+## About
 
-💻 Based in **Barcelona, Spain**  
-🌍 Working remotely at **Decathlon Core**  
-🚀 Passionate about **building scalable, accessible, and high-performance web experiences**
+Frontend Engineer with **5+ years** building web products used by millions across **15+ countries**, including Decathlon's European e-commerce platforms. I work mostly in **React, Next.js, Svelte and TypeScript**, and I care deeply about accessibility, testing and codebases that stay maintainable.
+
+Currently at **Keolis Group** (remote), where I make accessibility a first-class requirement — from semantic HTML and ARIA to axe-gated CI that stops regressions before they reach production.
 
 ---
 
-### 🧠 About Me
+## Focus
 
-I’m a **Frontend Developer** with **4+ years of professional experience**, currently helping shape the user experience across **15+ international e-commerce platforms** at **Decathlon**.  
-I specialize in **React**, **Svelte**, and **Next.js**, crafting responsive, maintainable interfaces backed by strong architecture and testing practices.
-
-I’m driven by a love for clean, efficient code, and I’m constantly exploring ways to improve performance, accessibility, and development workflows.
-
----
-
-### ⚙️ Tech Stack
-
-**Frontend:**  
-React • Next.js • Svelte • TypeScript • JavaScript (ES6+) • Tailwind • SCSS • HTML5 • CSS3  
-
-**Backend:**  
-Node.js • Express.js • Prisma ORM • MongoDB • Firebase  
-
-**Testing & Tools:**  
-Jest • Vitest • Cypress • Testing Library • Storybook • Git • Figma • A/B Testing  
+- **Accessibility** — WCAG 2.2, ARIA authoring practices, keyboard and screen-reader testing, axe in CI/CD
+- **Performance** — Core Web Vitals, Lighthouse, rendering and bundle optimisation
+- **Design systems** — component libraries at scale, Storybook, Figma handoff
+- **Quality** — typed end-to-end, automated testing, CI gates that hold
 
 ---
 
-### 🏢 Experience Highlights
+## Tech Stack
 
-**🧩 Frontend Developer – Decathlon Core (2023-Present)**  
-- Built a scalable **Svelte component library** used across 15+ countries.  
-- Improved conversion rates through **A/B testing** and UX iteration.  
-- Collaborated closely with design teams using **Figma** and **Storybook**.  
-- Implemented **robust automated testing** (Jest, Cypress) to ensure reliability.  
-
-**🌍 Frontend Developer – Decathlon Spain (2022-2023)**  
-- Optimized **Core Web Vitals** and improved accessibility (WCAG 2.1).  
-- Reduced page load time by **1.5 seconds** across major e-commerce pages.  
-- Developed **modular Svelte components** for faster feature delivery.  
-
-**⚡ Frontend Developer – Subforce (2021-2022)**  
-- Created full-stack apps with **React** and **Next.js**.  
-- Led **authentication & form validation** improvements.  
-- Refactored legacy codebases to **modern JavaScript standards**.  
+| Area | Tools |
+| --- | --- |
+| **Frontend** | React · Next.js · Svelte · TypeScript · JavaScript (ES6+) · Tailwind CSS · SCSS |
+| **Backend** | Node.js · Express · Prisma · MongoDB · Firebase |
+| **Testing** | Vitest · Jest · Testing Library · Cypress · axe |
+| **Tooling** | Git · Storybook · Figma · ESLint · CI/CD |
 
 ---
 
-### 🎓 Education & Certifications
-- **Full-Stack Web Development Bootcamp – Le Wagon (2020)**  
-- **JavaScript: The Advanced Concepts – Udemy (2021)**  
-- **JavaScript Algorithms and Data Structures – freeCodeCamp (2021)**  
+## Experience
+
+**Frontend Software Engineer — Keolis Group** · Feb 2026 – Present · Remote
+Integrated axe accessibility checks into CI/CD, enforced WCAG at the source with ESLint, and refactored core UI to semantic HTML, ARIA and keyboard-first patterns.
+
+**Frontend Software Engineer — Decathlon Core** · Oct 2023 – Feb 2026
+Architected a Svelte component library powering e-commerce storefronts in 15+ countries, drove A/B testing for conversion lifts, and owned the full test suite.
+
+**Frontend Software Engineer — Decathlon Spain** · May 2022 – Oct 2023
+Improved Core Web Vitals — cutting average load time by 1.5s — and rolled out WCAG 2.1 across the platform.
+
+**Frontend Software Engineer — Subforce** · Jun 2021 – May 2022
+Delivered full-stack features with React, Next.js, Node.js and Express, and modernised a legacy codebase to ES6+.
 
 ---
 
-### 🗣️ Languages
-🇫🇷 French (Native) • 🇪🇸 Spanish (Native) • 🇬🇧 English (C1 – Professional Proficiency)
+## Featured Work
+
+- **Modern E-Commerce Platform** — production-shaped storefront on Next.js 16 and the Shopify Storefront API, typed end-to-end with GraphQL Codegen. [Live](https://nextjs-shopify-storefront-demo-kevinsauvages-projects.vercel.app/) · [Code](https://github.com/kevinsauvage/nextjs-shopify-storefront)
+- **API Pulse** — API monitoring platform with scheduled health checks, alerting and encrypted secrets (Next.js, Prisma, PostgreSQL). [Code](https://github.com/kevinsauvage/api-monitoring)
+- **PetPortrait AI** — AI pet-portrait storefront: OpenAI generation, Shopify checkout and Printful fulfillment. [Code](https://github.com/kevinsauvage/Pet-Portrait-AI)
 
 ---
 
-### 📊 GitHub Stats
+## Certifications
+
+- **C1 Advanced English** — EF SET (2024)
+- **React: Using TypeScript** — LinkedIn Learning (2023)
+- **JavaScript: The Advanced Concepts** — Udemy (2021)
+- **Full-Stack Web Developer** — Le Wagon (2020)
+
+---
+
+## Languages
+
+French (Native) · Spanish (Fluent) · English (C1 Certified)
+
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinsauvage&show_icons=true&count_private=true&hide_border=true" align="center" />
+
+**Open to connections and interesting conversations.**
+
+[kevin-sauvage.com](https://www.kevin-sauvage.com) · [LinkedIn](https://www.linkedin.com/in/kevin-sauvage/) · [kevinsauvage@outlook.com](mailto:kevinsauvage@outlook.com)
+
 </div>
-
----
-
-### 🤝 Connect with Me
-<div align="center">
-  <a href="https://github.com/kevinsauvage" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/kevin-sauvage" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.kevin-sauvage.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
----
-
-✨ *“Code is more than syntax — it’s how ideas become reality.”*  
