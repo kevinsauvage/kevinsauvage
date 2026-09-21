@@ -9,7 +9,7 @@ Based in Barcelona · Working remotely at Keolis Group.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kevin--sauvage.com-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://www.kevin-sauvage.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kevin--sauvage-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-sauvage/)
-[![Email](https://img.shields.io/badge/Email-kevinsauvage%40outlook.com-2563eb?style=flat-square&logo=maildotru&logoColor=white)](mailto:kevinsauvage@outlook.com)
+[![Email](https://img.shields.io/badge/Email-kevinsauvage%40outlook.com-2563eb?style=flat-square)](mailto:kevinsauvage@outlook.com)
 
 </div>
 
