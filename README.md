@@ -25,7 +25,6 @@ Full-stack features in React, Next.js, Node.js and Express, and moving a legacy 
 - [A11yFix AI](https://github.com/kevinsauvage/RGAA-extension) is a Chrome extension that audits the current page with axe-core and custom RGAA rules, samples Core Web Vitals, and can suggest fixes through OpenAI.
 - [Oruva](https://oruva.store) is a jewelry store on Next.js 16 and Shopify, with cart, customer accounts, wishlist and predictive search in English, Spanish and French, typed end to end with GraphQL Codegen.
 - [PetPortrait AI](https://github.com/kevinsauvage/Pet-Portrait-AI) turns a pet photo into a portrait with OpenAI and sells it as a print through Shopify and Printful. [Live](https://pet-portrait-ai-psi.vercel.app)
-- [API Pulse](https://github.com/kevinsauvage/api-monitoring) runs scheduled health checks on APIs and sends alerts to Slack, email or a webhook.
 
 ## Tools I use
 
